@@ -68,15 +68,15 @@ img {
 }
 
 .third {
-    font-size: 14px;
-    height: 40px;
+    display: flex;
+    align-items: center;
+    font-size: 13.5px;
     margin: 20px 0;
 }
 
 .third img {
-    margin-right: 10px;
+    margin-right: 15px;
     width: 35px;
-    vertical-align: middle;
 }
 
 .attribution {
