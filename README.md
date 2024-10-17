@@ -49,7 +49,7 @@ This project helped me to rate  and test my studies until now, so I can continue
 
 ## Author
 
-- GitHub - [masala timothy](https://www.github.io/masalatimothy)
+- GitHub - [masala mutombo timothy](https://www.github.io/masalatimothy)
 - Frontend Mentor - [@masalatimothy](https://www.frontendmentor.io/profile/masalatimothy)
 
 ## Acknowledgments
